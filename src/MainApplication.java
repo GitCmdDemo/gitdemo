@@ -5,5 +5,6 @@ public class MainApplication {
 
             System.out.println("DDDD");
             System.out.println("SSSS");
+            System.out.println("AAAA");
         }
 }
