@@ -9,5 +9,6 @@ public class SecondApplication {
 
         int foodCount = 100;
         return joeyTribbiani;
+:
     }
 }
