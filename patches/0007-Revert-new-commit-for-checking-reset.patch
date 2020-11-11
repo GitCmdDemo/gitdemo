@@ -1,0 +1,26 @@
+From d5f0e18cc7051542cc6739486a6cb285e99e6ea9 Mon Sep 17 00:00:00 2001
+From: gokul-khoros <gokulreko@gmail.com>
+Date: Wed, 11 Nov 2020 22:55:54 +0530
+Subject: [PATCH 07/11] Revert "new commit for checking reset"
+
+This reverts commit 6b9bb52a95199e1328e4f2d701539c3470f9bd24.
+---
+ src/SecondApplication.java | 1 -
+ 1 file changed, 1 deletion(-)
+
+diff --git a/src/SecondApplication.java b/src/SecondApplication.java
+index 5001c8e..017e656 100644
+--- a/src/SecondApplication.java
++++ b/src/SecondApplication.java
+@@ -7,7 +7,6 @@ public class SecondApplication {
+         String phoebe = "ssh-keyegn along with rsa encrption can be used for authentication";
+         String joeyTribbiani = "hey how u dong";
+ 
+-        int foodCount  = 100;
+         return joeyTribbiani;
+     }
+ }
+\ No newline at end of file
+-- 
+2.23.0
+

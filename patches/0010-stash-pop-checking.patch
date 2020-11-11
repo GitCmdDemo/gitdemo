@@ -1,0 +1,25 @@
+From 734eb7a6bd8d3290ed2d4d04de7ea2f8886d8da2 Mon Sep 17 00:00:00 2001
+From: gokul-khoros <gokulreko@gmail.com>
+Date: Thu, 12 Nov 2020 01:07:33 +0530
+Subject: [PATCH 10/11] stash pop checking
+
+---
+ src/SecondApplication.java | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/src/SecondApplication.java b/src/SecondApplication.java
+index 017e656..2150639 100644
+--- a/src/SecondApplication.java
++++ b/src/SecondApplication.java
+@@ -7,6 +7,7 @@ public class SecondApplication {
+         String phoebe = "ssh-keyegn along with rsa encrption can be used for authentication";
+         String joeyTribbiani = "hey how u dong";
+ 
++        int foodCount = 100;
+         return joeyTribbiani;
+     }
+ }
+\ No newline at end of file
+-- 
+2.23.0
+
