@@ -8,6 +8,5 @@ public class SecondApplication {
         String joeyTribbiani = "hey how u dong";
 
         return joeyTribbiani;
-:
     }
 }
