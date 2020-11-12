@@ -7,6 +7,7 @@ public class SecondApplication {
         String phoebe = "ssh-keyegn along with rsa encrption can be used for authentication";
         String joeyTribbiani = "hey how u dong";
 
+        String msg = "lets try rebase";
         return joeyTribbiani;
     }
 }
